@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Olanorw
-- 👀 I do unity game development.
-- 🌱 I’m currently learning Assembly.
-- 🔎 I’m looking to collaborate on [VC1](https://github.com/Olanorw/VC1) right now.
+# 素晴らしい一日をお過ごしください!
