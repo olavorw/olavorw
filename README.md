@@ -1,1 +1,4 @@
-# 素晴らしい一日をお過ごしください
+## Yo, I'm Olav. `4934`
+I do cool nerdy stuff!
+
+良い１日を！
