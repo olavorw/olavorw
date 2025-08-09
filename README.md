@@ -2,4 +2,4 @@
 I do cool nerdy stuff!
 よい一日を！
 
-I'm focused making [Food by AI](https://food.olavorw.app) and [My Website](https://olavorw.com) right now.
+Not focusing on anything particularly right now, am getting back into development recently, I want to finish [my website](https://olavorw.com) and continue working on some older projects.
